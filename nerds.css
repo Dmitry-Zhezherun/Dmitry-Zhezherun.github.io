@@ -17,6 +17,7 @@ button{
   width: 900px;
   margin: 0 auto;
   overflow: auto;
+  overflow:hidden;
 }
 
 .main_menu{
